@@ -1,4 +1,4 @@
-# 🖼️ Conversor de JPG para WebP com Node.js e Sharp
+# Conversor de JPG para WebP com Node.js e Sharp
 
 Este script Node.js converte imagens `.jpg` em `.webp` usando a poderosa biblioteca 
 [Sharp](https://sharp.pixelplumbing.com/). Ideal para otimizar imagens em massa, 
